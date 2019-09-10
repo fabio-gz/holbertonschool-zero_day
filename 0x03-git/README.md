@@ -1,1 +1,1 @@
-Git project. Commmands, collaborations
+Git project. Commmands, collaborations branch updates.
