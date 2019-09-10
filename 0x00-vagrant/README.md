@@ -1,0 +1,1 @@
+This is the uname output when enter without any option
